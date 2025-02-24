@@ -94,12 +94,7 @@ export default function Work() {
                     Led multiple client-facing meetings to explain software solutions in technical depth
                     </li>
                   </h6>
-                  <h6>
-                    <li>
-                    Obtained the AWS Solutions Architect - Associate certification
-                    </li>
-                  </h6>
-
+              
                   <h6>
                     <li>
                     Created a frontend interface for a synthetic data generator by implementing an AWS Lambda function with Python layers, utilizing S3 for storage, integrating with API Gateway, and Postman for testing.
