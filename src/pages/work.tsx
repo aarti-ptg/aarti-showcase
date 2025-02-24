@@ -61,7 +61,7 @@ export default function Work() {
                     className="leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl"
                     href="https://www.accenture.com/us-en/industries/accenture-federal-services"
                   >
-                    Accenture Federal
+                    Accenture Federal Services
                   </UnderlineLink>
                   <br />
                   <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
@@ -71,6 +71,23 @@ export default function Work() {
                 </div>
 
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+
+                  <h6>
+                    <li>
+                    Created, tested, and deployed a financial management tool using Microsoft Azure Services
+                    </li>
+                  </h6>
+                  <h6>
+                    <li>
+                    Obtained the AWS Solutions Architect - Associate certification
+                    </li>
+                  </h6>
+
+                  <h6>
+                    <li>
+                    Developed and maintained process design and solution documentation while managing version control using GitHub and Bitbucket
+                    </li>
+                  </h6>
 
                   <h6>
                     <li>
@@ -85,7 +102,19 @@ export default function Work() {
 
                   <h6>
                     <li>
-                    Implemented critical software enhancements and structural changes using Microsoft Power Automate, resulting in a 30% improvement in system performance.
+                    Created a frontend interface for a synthetic data generator by implementing an AWS Lambda function with Python layers, utilizing S3 for storage, integrating with API Gateway, and Postman for testing.
+                    </li>
+                  </h6>
+
+                  <h6>
+                    <li>
+                    Collaborated with the development team to ensure proper integration and implementation of solution
+                    </li>
+                  </h6>
+
+                  <h6>
+                    <li>
+                    AFS Fastforward TDP Program - Ambassador
                     </li>
                   </h6>
 
