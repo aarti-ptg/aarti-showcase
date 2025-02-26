@@ -53,6 +53,40 @@ export default function Projects() {
         >
           <div className='layout relative flex min-h-screen flex-col items-start justify-start pt-6 text-center sm:pt-8 md:pt-10 lg:pt-12 '>
             <div className='mt-16 flex w-full flex-col'>
+              
+
+              {/* PalettePin */}
+              <div className='pane'>
+                <div className='w-5/6 pt-12 text-left md:w-2/5'>
+                  <UnderlineLink
+                    className='leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl'
+                    href='https://github.com/aitikirala/campusconnector'
+                  >
+                    PalettePin
+                  </UnderlineLink>
+                  <br />
+                  <h1 className='prose prose-xl mt-2 text-xl dark:prose-invert md:text-3xl'>
+                    Jan 2025 - Present
+                  </h1>
+                </div>
+                <div className='prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12'>
+                  <h6>
+                  Developed an app that identifies color palettes from images, promoting sustainability by reusing clothes and decor to create new looks without buying replicas
+them. 
+                  </h6>
+                  <h6>Leveraged the MERN stack for full-stack development and implemented responsive UI for seamless user experience</h6>
+                  
+                  <div className='flex w-full justify-end'>
+                    <ArrowLink
+                      className='text-sm'
+                      href='https://github.com/aitikirala/palette_pin'
+                    >
+                      See the repository
+                    </ArrowLink>
+                  </div>
+                </div>
+              </div>
+
               {/* Campus Connector */}
               <div className='pane'>
                 <div className='w-5/6 pt-12 text-left md:w-2/5'>
@@ -84,38 +118,6 @@ them.
                     <ArrowLink
                       className='text-sm'
                       href='https://github.com/aitikirala/campusconnector'
-                    >
-                      See the repository
-                    </ArrowLink>
-                  </div>
-                </div>
-              </div>
-
-              {/* PalettePin */}
-              <div className='pane'>
-                <div className='w-5/6 pt-12 text-left md:w-2/5'>
-                  <UnderlineLink
-                    className='leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl'
-                    href='https://github.com/aitikirala/campusconnector'
-                  >
-                    PalettePin
-                  </UnderlineLink>
-                  <br />
-                  <h1 className='prose prose-xl mt-2 text-xl dark:prose-invert md:text-3xl'>
-                    Jan 2025 - Present
-                  </h1>
-                </div>
-                <div className='prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12'>
-                  <h6>
-                  Developed an app that identifies color palettes from images, promoting sustainability by reusing clothes and decor to create new looks without buying replicas
-them. 
-                  </h6>
-                  <h6>Leveraged the MERN stack for full-stack development and implemented responsive UI for seamless user experience</h6>
-                  
-                  <div className='flex w-full justify-end'>
-                    <ArrowLink
-                      className='text-sm'
-                      href='https://github.com/aitikirala/palette_pin'
                     >
                       See the repository
                     </ArrowLink>
