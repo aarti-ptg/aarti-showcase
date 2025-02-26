@@ -66,26 +66,22 @@ export default function Work() {
                   <br />
                   <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
                     <div>Software Engineer (L11)</div>
-                    <div>June 2024 - Present</div>
+                    <div>Jun 2024 - Present</div>
                   </h1>
                 </div>
 
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
 
-                  <h6>
-                    <li>
-                    Created, tested, and deployed a financial management tool using Microsoft Azure Services
-                    </li>
-                  </h6>
-                  <h6>
-                    <li>
-                    Obtained the AWS Solutions Architect - Associate certification
-                    </li>
-                  </h6>
 
                   <h6>
                     <li>
-                    Developed and maintained process design and solution documentation while managing version control using GitHub and Bitbucket
+                    Created a frontend interface for a synthetic data generator by implementing an AWS Lambda function with Python layers, utilizing S3 for storage, integrating with API Gateway, and Postman for testing.
+                    </li>
+                  </h6>
+                  
+                  <h6>
+                    <li>
+                    Created, tested, and deployed a financial management tool using Microsoft Azure Services
                     </li>
                   </h6>
 
@@ -94,33 +90,18 @@ export default function Work() {
                     Led multiple client-facing meetings to explain software solutions in technical depth
                     </li>
                   </h6>
-              
-                  <h6>
-                    <li>
-                    Created a frontend interface for a synthetic data generator by implementing an AWS Lambda function with Python layers, utilizing S3 for storage, integrating with API Gateway, and Postman for testing.
-                    </li>
-                  </h6>
 
                   <h6>
                     <li>
-                    Collaborated with the development team to ensure proper integration and implementation of solution
+                    Developed and maintained process design and solution documentation
                     </li>
                   </h6>
-
                   <h6>
                     <li>
                     AFS Fastforward TDP Program - Ambassador
                     </li>
                   </h6>
 
-                  <div className="flex w-full justify-end">
-                    <ArrowLink
-                      className="text-sm"
-                      href="https://www.credly.com/badges/38efde8c-4e2a-436d-8003-de2bb80d7c96"
-                    >
-                      Solutions Architect Certification
-                    </ArrowLink>
-                  </div>
                 </div>
               </div>
 
@@ -135,14 +116,17 @@ export default function Work() {
                   </UnderlineLink>
                   <br />
                   <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
-                    <div>Founder</div>
+                    <div>Founder and Tutor</div>
                     <div>Jan 2021 - Present</div>
                   </h1>
                 </div>
 
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+                  
+                  <h6> Built a website and Google Business page to establish an online presence, optimize client acquisition, and streamline tutoring session management.
+                  </h6>
                   <h6>
-                  Online Private Tutoring - Assist and guide students with improving their skillset in the following areas:
+                  Specialized focus in the following areas:
                     <div className="ml-6">
                       <li>
                       Object Oriented Programming
