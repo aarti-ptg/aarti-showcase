@@ -159,14 +159,6 @@ export default function Work() {
                   <div className="flex w-full justify-end">
                     <ArrowLink
                       className="text-sm"
-                      href="https://peopletech.com/home"
-                    >
-                      Learn More
-                    </ArrowLink>
-                  </div>
-                  <div className="flex w-full justify-end">
-                    <ArrowLink
-                      className="text-sm"
                       href="https://www.linkedin.com/in/aarti-itikirala/details/recommendations/?detailScreenTabIndex=0"
                     >
                       Recommendation from Manager: Krishna C
