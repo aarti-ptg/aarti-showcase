@@ -105,71 +105,7 @@ export default function Work() {
                 </div>
               </div>
 
-              {/* NEXTGEN PANE */}
-              <div className="pane">
-                <div className="w-5/6 pt-12 text-left md:w-2/5">
-                  <UnderlineLink
-                    className="leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl"
-                    href="https://github.com/aitikirala/PTG-Custom-Connector"
-                  >
-                    NextGen Tutoring
-                  </UnderlineLink>
-                  <br />
-                  <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
-                    <div>Founder and Tutor</div>
-                    <div>Jan 2021 - Present</div>
-                  </h1>
-                </div>
 
-                <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
-                  
-                  <h6> Built a website and Google Business page to establish an online presence, optimize client acquisition, and streamline tutoring session management.
-                  </h6>
-                  <h6>
-                  Specialized focus in the following areas:
-                    <div className="ml-6">
-                      <li>
-                      Object Oriented Programming
-                      </li>
-
-                      <li>
-                      Data Structures
-                      </li>
-
-                      <li>
-                      SAT Math Tutoring
-                      </li>
-
-                      <li>
-                      Calc II (Solids of Revolution, Integration Techniques, Improper Integrals, Series and Sequences, etc.)
-                      </li>
-
-                      <li>
-                      Calc III (Vectors and the Geometry of Space, Partial Derivatives, Multiple Integrals, Vector Calculus)
-                      </li>
-                    </div>
-                  </h6>
-
-
-                  <div className="flex w-full justify-end">
-                    <ArrowLink
-                      className="text-sm"
-                      href="https://aartis-tutoring-services.b12sites.com"
-                    >
-                      Learn More
-                    </ArrowLink>
-                  </div>
-                  <div className="flex w-full justify-end">
-                    <ArrowLink
-                      className="text-sm"
-                      href="https://maps.app.goo.gl/k5QenE7MVaSVujV49?g_st=com.google.maps.preview.copy"
-                    >
-                      Business Page
-                    </ArrowLink>
-                  </div>
-                </div>
-              </div>
-              
               {/* PEOPLE TECH PANE */}
               <div className="pane">
                 <div className="w-5/6 pt-12 text-left md:w-2/5">
@@ -238,6 +174,75 @@ export default function Work() {
                   </div>
                 </div>
               </div>
+
+              
+              {/* NEXTGEN PANE */}
+              <div className="pane">
+                <div className="w-5/6 pt-12 text-left md:w-2/5">
+                  <UnderlineLink
+                    className="leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl"
+                    href="https://github.com/aitikirala/PTG-Custom-Connector"
+                  >
+                    NextGen Tutoring
+                  </UnderlineLink>
+                  <br />
+                  <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
+                    <div>Founder and Tutor</div>
+                    <div>Jan 2021 - Present</div>
+                  </h1>
+                </div>
+
+                <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+                  
+                  <h6> <li>Built a website and Google Business page to establish an online presence, optimize client acquisition, and streamline tutoring session management.</li>
+                  </h6>
+                  </h6>
+                  <h6>
+                  Specialized focus in the following areas:
+                    <div className="ml-6">
+                      <li>
+                      Object Oriented Programming
+                      </li>
+
+                      <li>
+                      Data Structures
+                      </li>
+
+                      <li>
+                      SAT Math Tutoring
+                      </li>
+
+                      <li>
+                      Calc II (Solids of Revolution, Integration Techniques, Improper Integrals, Series and Sequences, etc.)
+                      </li>
+
+                      <li>
+                      Calc III (Vectors and the Geometry of Space, Partial Derivatives, Multiple Integrals, Vector Calculus)
+                      </li>
+                    </div>
+                  </h6>
+
+
+                  <div className="flex w-full justify-end">
+                    <ArrowLink
+                      className="text-sm"
+                      href="https://aartis-tutoring-services.b12sites.com"
+                    >
+                      Learn More
+                    </ArrowLink>
+                  </div>
+                  <div className="flex w-full justify-end">
+                    <ArrowLink
+                      className="text-sm"
+                      href="https://maps.app.goo.gl/k5QenE7MVaSVujV49?g_st=com.google.maps.preview.copy"
+                    >
+                      Business Page
+                    </ArrowLink>
+                  </div>
+                </div>
+              </div>
+              
+              
 
               {/* UMD MATH COACH */}
               <div className="pane">
