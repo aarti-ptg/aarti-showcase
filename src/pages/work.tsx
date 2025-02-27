@@ -188,8 +188,10 @@ export default function Work() {
                   
                   <h6> <li>Built a website and Google Business page to establish an online presence, optimize client acquisition, and streamline tutoring session management.</li>
                   </h6>
+                  
+                  
                   <h6>
-                  Specialized focus in the following areas:
+                  <li>Specialized focus in the following areas: </li>
                     <div className="ml-6">
                       <li>
                       Object Oriented Programming
