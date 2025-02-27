@@ -122,37 +122,43 @@ export default function Work() {
                   </h1>
                 </div>
 
-                <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+
+
                   <h6>
-                    <div className="ml-6">
-                      <li>
-                        Leveraged AWS Lambda and App Flow to design and
+                    <li>
+                    Leveraged AWS Lambda and App Flow to design and
                         implement a custom Github connector, enabling seamless
                         integration and automation of code repository workflows.
-                      </li>
-
-                      <li>
-                        Collaborated with cross-functional teams to ensure
+                    </li>
+                  </h6>
+                  
+                  <h6>
+                    <li>
+                    Collaborated with cross-functional teams to ensure
                         security, scalability, and efficiency.
-                      </li>
-                    </div>
+                    </li>
                   </h6>
 
                   <h6>
-                    <div className="ml-6">
-                      <li>
-                        Created a tailored Workday connector using AWS Lambda
+                    <li>
+                    Created a tailored Workday connector using AWS Lambda
                         and App Flow, facilitating real-time data
                         synchronization and automation between HR systems and
                         internal applications.
-                      </li>
-
-                      <li>
-                        Led the process of testing, deployment, and ongoing
-                        support, contributing to improved operational efficiency
-                      </li>
-                    </div>
+                    </li>
                   </h6>
+
+                  <h6>
+                    <li>
+                    Led the process of testing, deployment, and ongoing
+                        support, contributing to improved operational efficiency
+                    </li>
+                  </h6>
+
+                </div>
+
+                
 
                   <div className="flex w-full justify-end">
                     <ArrowLink
@@ -162,7 +168,7 @@ export default function Work() {
                       Recommendation from Manager: Krishna C
                     </ArrowLink>
                   </div>
-                </div>
+              
               </div>
 
               
