@@ -249,7 +249,7 @@ export default function Work() {
                   <br />
                   <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
                     <div>Math Coach</div>
-                    <div> August 2021 - January 2022</div>
+                    <div> Aug 2021 - Jan 2022</div>
                   </h1>
                 </div>
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
@@ -301,7 +301,7 @@ export default function Work() {
                   <br />
                   <h1 className="prose prose-xl mt-2 flex flex-col text-xl dark:prose-invert md:text-2xl">
                     <div>Undergraduate Research Assistant</div>
-                    <div>November 2020 - February 2021</div>
+                    <div>Nov 2020 - Feb 2021</div>
                   </h1>
                 </div>
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
