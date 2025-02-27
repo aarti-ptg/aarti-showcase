@@ -254,7 +254,7 @@ export default function Work() {
                 </div>
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
                   <h6>
-                    Conducted Weekly Sessions
+                    <li>Conducted Weekly Sessions</li>
                     <div className="ml-6">
                       <li>
                         Detailed key calculus concepts at a designated UMD
@@ -266,7 +266,7 @@ export default function Work() {
                   </h6>
 
                   <h6>
-                    Facilitated Homework and Exam Preparation
+                    <li>Facilitated Homework and Exam Preparation</li>
                     <div className="ml-6">
                       <li>
                         Assisted students with challenging homework problems,
