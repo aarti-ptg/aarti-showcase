@@ -52,6 +52,15 @@ export default function Header() {
             <PrimaryLink
               className={clsx(
                 'hidden dark:text-[#FAD5A5]',
+                router.pathname != '/certifications' ? 'block' : ''
+              )}
+              href='/certifications'
+            >
+              Certifications
+            </PrimaryLink>
+            <PrimaryLink
+              className={clsx(
+                'hidden dark:text-[#FAD5A5]',
                 router.pathname != '/aiml' ? 'block' : ''
               )}
               href='/aiml'
