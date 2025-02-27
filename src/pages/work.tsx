@@ -289,6 +289,14 @@ export default function Work() {
                 </div>
               </div>
 
+              
+
+Responsibilities:
+
+
+
+
+
               {/* Undergraduate Research Pane */}
               <div className="pane">
                 <div className="w-5/6 pt-12 text-left md:w-2/5">
@@ -307,20 +315,18 @@ export default function Work() {
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
                   <h6>
                     <li>
-                      Collected, coded, and prepared state-level COVID-19 as
-                      well as political affiliation data
+                      Analyzed how political identity (specifically, conservatism) influences the spread of COVID-19 misinformation on Twitter, focusing on mask effectiveness and its impact on virus control in the U.S.
                     </li>
                   </h6>
                   <h6>
                     <li>
-                      Verified user-reported Twitter data using online research
+                      Initially verified user-reported Twitter data manually, then developed a Python tool to automate misinformation detection using a keyword-based dictionary
                     </li>
                   </h6>
 
                   <h6>
                     <li>
-                      Analyzed Twitter data to understand the spatiotemporal
-                      spread of misinformation regarding mask use
+                      Collected, coded, and analyzed state-level COVID and political affiliation data
                     </li>
                   </h6>
                   <div className="flex w-full justify-end">
