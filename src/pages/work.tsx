@@ -291,12 +291,6 @@ export default function Work() {
 
               
 
-Responsibilities:
-
-
-
-
-
               {/* Undergraduate Research Pane */}
               <div className="pane">
                 <div className="w-5/6 pt-12 text-left md:w-2/5">
