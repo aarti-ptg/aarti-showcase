@@ -106,23 +106,23 @@ export default function Work() {
               </div>
 
 
-              {/* PEOPLE TECH PANE */}
+              {/* PTG PANE */}
               <div className="pane">
                 <div className="w-5/6 pt-12 text-left md:w-2/5">
                   <UnderlineLink
                     className="leading-1 prose text-left text-[2.5rem] font-semibold leading-10 dark:prose-invert sm:text-5xl"
-                    href="https://peopletech.com/home"
+                    href="https://www.accenture.com/us-en/industries/accenture-federal-services"
                   >
                     People Tech Group
                   </UnderlineLink>
                   <br />
                   <h1 className="prose prose-xl mt-4 flex flex-col text-xl dark:prose-invert md:text-2xl">
-                    <div>SWE Intern</div>
-                    <div>July 2022 - Present</div>
+                    <div>Software Engineer Intern (L11)</div>
+                    <div>Jul 2022 - May 2024</div>
                   </h1>
                 </div>
 
-                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
+                <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
 
 
                   <h6>
@@ -156,10 +156,6 @@ export default function Work() {
                     </li>
                   </h6>
 
-                </div>
-
-                
-
                   <div className="flex w-full justify-end">
                     <ArrowLink
                       className="text-sm"
@@ -168,7 +164,7 @@ export default function Work() {
                       Recommendation from Manager: Krishna C
                     </ArrowLink>
                   </div>
-              
+                </div>
               </div>
 
               
