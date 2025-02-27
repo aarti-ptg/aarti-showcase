@@ -124,7 +124,6 @@ export default function Work() {
 
                 <div className="prose prose-lg w-5/6 pt-2 text-left tracking-tight dark:prose-invert md:prose-xl lg:prose-2xl md:w-2/5 md:pt-12">
                   <h6>
-                    Developed a Custom Github Connector
                     <div className="ml-6">
                       <li>
                         Leveraged AWS Lambda and App Flow to design and
@@ -140,7 +139,6 @@ export default function Work() {
                   </h6>
 
                   <h6>
-                    Engineered a Workday Connector
                     <div className="ml-6">
                       <li>
                         Created a tailored Workday connector using AWS Lambda
